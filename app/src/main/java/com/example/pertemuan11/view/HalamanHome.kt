@@ -7,7 +7,6 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -33,7 +32,6 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.compose.ui.input.nestedscroll.nestedScroll
 import com.example.pertemuan11.modeldata.DataSiswa
 import com.example.pertemuan11.ui.komponen.SiswaTopAppBar
-import com.example.pertemuan11.ui.navigasi.DestinasiHome
 import com.example.pertemuan11.viewmodel.HomeViewModel
 import com.example.pertemuan11.viewmodel.PenyediaViewModel
 import com.example.pertemuan11.viewmodel.StatusUiSiswa
